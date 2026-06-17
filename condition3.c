@@ -17,11 +17,11 @@ int main()
 
         array3[i+5] = array2[i];
     }
-    printf("array3 :");
+    printf("new_array :");
 
     for (int i = 0; i < 8; i++)
     {
-        printf("%d", array3[i]);
+        printf("\t%d", array3[i]);
     }
 
     return 0;
