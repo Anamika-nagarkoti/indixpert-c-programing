@@ -19,7 +19,7 @@ int main()
    printf("please enter second subject name\n");
    scanf("%s" ,&subject_2);
    
-   printf("please enter third subject nmae\n");
+   printf("please enter third subject name\n");
    scanf("%s" ,&subject_3);
    
    printf("please enter forth subject name\n");
